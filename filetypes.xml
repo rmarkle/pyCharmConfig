@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="api-config" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="get_email_headers" type="Python" />
