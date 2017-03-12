@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ir-flow-integrations'" />
-    <option name="defaultScopeName" value="Project 'ir-flow-integrations'" />
-    <option name="SEARCH_SCOPE" value="Project 'ir-flow-integrations'" />
+    <option name="customScope" value="File '.../integrations/email/header_analysis/get_email_headers.py - [ir-flow-integrations]'" />
+    <option name="defaultScopeName" value="File '.../integrations/email/header_analysis/get_email_headers.py - [ir-flow-integrations]'" />
+    <option name="SEARCH_SCOPE" value="File '.../integrations/email/header_analysis/get_email_headers.py - [ir-flow-integrations]'" />
   </component>
 </application>
