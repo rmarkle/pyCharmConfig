@@ -6,6 +6,7 @@
       <mapping pattern="extract2" type="PLAIN_TEXT" />
       <mapping pattern="extract1" type="PLAIN_TEXT" />
       <mapping pattern="extract0" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
