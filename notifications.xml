@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IGNORE_GROUP" shouldLog="false" />
+  </component>
+</application>
