@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="ini" approved="true" type="Ini" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="extract1" type="PLAIN_TEXT" />
       <mapping pattern="extract0" type="PLAIN_TEXT" />
@@ -9,9 +10,9 @@
       <mapping pattern="api-config" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="emr-hxapi" type="Python" />
       <mapping pattern="get_email_headers" type="Python" />
