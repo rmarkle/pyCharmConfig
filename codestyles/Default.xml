@@ -1,7 +1,5 @@
 <code_scheme name="Default">
-  <codeStyleSettings language="Python">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
 </code_scheme>
