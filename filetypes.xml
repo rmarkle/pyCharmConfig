@@ -16,6 +16,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="box" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping pattern="emr-hxapi" type="Python" />
       <mapping pattern="get_email_headers" type="Python" />
