@@ -48,6 +48,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Syncurity" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Syncurity" />
   </component>
 </application>
