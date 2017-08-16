@@ -1,5 +1,3 @@
 <code_scheme name="Default">
-  <Python>
-    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
-  </Python>
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
 </code_scheme>
