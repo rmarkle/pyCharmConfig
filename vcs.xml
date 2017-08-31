@@ -60,6 +60,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Syncurity" />
+    <option name="cloneParentDir" value="$USER_HOME$/repos" />
   </component>
 </application>
