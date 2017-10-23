@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
