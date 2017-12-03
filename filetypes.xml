@@ -8,6 +8,7 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
       <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
