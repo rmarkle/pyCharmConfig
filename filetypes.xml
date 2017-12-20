@@ -3,15 +3,16 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="atlas-irflow-centos-dev" type="JSON" />
-      <mapping pattern=".env.php" type="PLAIN_TEXT" />
-      <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
-      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern=".env.backup.php" type="PHP" />
       <mapping pattern="irflow" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.php" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
+      <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
