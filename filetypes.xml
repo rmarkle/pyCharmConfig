@@ -12,6 +12,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
+      <mapping pattern="packer_integrations_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
