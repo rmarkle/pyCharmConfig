@@ -5,12 +5,13 @@
       <mapping pattern="syncurity-metabase" type="JSON" />
       <mapping pattern="atlas-irflow-centos-dev" type="JSON" />
       <mapping pattern=".env.backup.php" type="PHP" />
+      <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="irflow" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.php" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
       <mapping pattern="packer_integrations_rsa" type="PLAIN_TEXT" />
