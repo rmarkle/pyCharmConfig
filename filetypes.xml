@@ -7,28 +7,29 @@
       <mapping pattern=".env.backup.php" type="PHP" />
       <mapping pattern="irflow" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.php" type="PLAIN_TEXT" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
+      <mapping pattern="packer_integrations_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".env.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
-      <mapping pattern="packer_integrations_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="p7b" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="last" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="p7b" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
