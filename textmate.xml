@@ -11,6 +11,12 @@
     </option>
     <option name="themesMapping">
       <map>
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Github" value="GitHub" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="WarmNeon" value="Mac Classic" />
         <entry key="_@user_Darcula" value="Mac Classic" />
         <entry key="_@user_Default" value="Mac Classic" />
         <entry key="_@user_Github" value="Mac Classic" />
