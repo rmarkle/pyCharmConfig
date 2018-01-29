@@ -4,10 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Syncurity/irflow-integrations/irflow_integrations/__init__.py" timestamp="1517246833737">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
     </filemarks>
     <jumps />
