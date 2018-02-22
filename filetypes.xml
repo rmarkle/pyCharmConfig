@@ -6,14 +6,15 @@
       <mapping pattern="atlas-irflow-centos-dev" type="JSON" />
       <mapping pattern=".env.backup.php" type="PHP" />
       <mapping pattern="irflow" type="PLAIN_TEXT" />
-      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="custom" type="PLAIN_TEXT" />
       <mapping pattern=".fingerprints" type="PLAIN_TEXT" />
       <mapping pattern="issue" type="PLAIN_TEXT" />
       <mapping pattern="packer_integrations_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".rpmmacros" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".env.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
@@ -25,6 +26,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="last" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -32,7 +34,9 @@
       <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping pattern="install_syncurity_metabase_repo,yml" type="YAML_EX" />
+      <mapping pattern="dev" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
