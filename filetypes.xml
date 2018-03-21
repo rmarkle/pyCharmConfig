@@ -16,9 +16,10 @@
       <mapping pattern=".rpmmacros" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".env.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
-      <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="queries" type="PLAIN_TEXT" />
+      <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern=".env.bak.php" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="stage" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
