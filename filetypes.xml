@@ -31,7 +31,6 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p7b" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
