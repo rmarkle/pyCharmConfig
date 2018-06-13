@@ -76,7 +76,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="zthart" />
+          <option name="userName" value="momohossain" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@github.com:ErnstHaagsman/grouporder.git" />
@@ -105,8 +105,5 @@
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Momo\Documents\Syncurity" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
