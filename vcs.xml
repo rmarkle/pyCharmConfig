@@ -104,6 +104,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Momo\Documents\Syncurity" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Syncurity" />
   </component>
 </application>
