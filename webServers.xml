@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6926262a-6874-4688-9476-756b6d407ab5" name="irflow@10.0.1.100:22" url="http:///">
+        <fileTransfer host="10.0.1.100" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4ba29d26-4eeb-4127-9803-cbb90b638a2b" name="irflow@10.0.1.100:22" url="http:///">
+        <fileTransfer host="10.0.1.100" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
