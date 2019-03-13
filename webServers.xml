@@ -1,13 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6926262a-6874-4688-9476-756b6d407ab5" name="irflow@10.0.1.100:22" url="http:///">
-        <fileTransfer host="10.0.1.100" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="c1f6d333-ba51-4906-8933-624d3a8a6e4a" name="zach@lament.csh.rit.edu:22" url="http:///">
+        <fileTransfer host="lament.csh.rit.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="4ba29d26-4eeb-4127-9803-cbb90b638a2b" name="irflow@10.0.1.100:22" url="http:///">
-        <fileTransfer host="10.0.1.100" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="0683ecf8-388b-4b89-ad08-9beeaa2c7bf4" name="zach@lament.csh.rit.edu:22" url="http:///">
+        <fileTransfer host="lament.csh.rit.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>

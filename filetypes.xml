@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="last_security_alert_call_timestamp" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="timer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
