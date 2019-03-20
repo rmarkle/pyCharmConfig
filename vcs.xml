@@ -102,8 +102,16 @@
           <option name="url" value="https://github.com/Syncurity/ir-flow" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Syncurity/irflow-pxGrid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Syncurity/irflow-integration-websvc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Momo\Documents\Syncurity" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Syncurity" />
   </component>
 </application>
