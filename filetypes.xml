@@ -6,6 +6,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="last" type="PLAIN_TEXT" />
+      <mapping pattern="dupe_test" type="Python" />
     </extensionMap>
   </component>
 </application>
