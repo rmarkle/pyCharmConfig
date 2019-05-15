@@ -116,6 +116,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Zachary\Documents\Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/repos" />
   </component>
 </application>
