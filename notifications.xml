@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Python Compatibility Inspection Advertiser" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
