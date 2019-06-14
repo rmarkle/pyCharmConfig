@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping pattern="test_action_x_force_reputation" type="Python" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="removedocs" type="Python" />
+      <mapping pattern="test_action_x_force_reputation" type="Python" />
     </extensionMap>
   </component>
 </application>
