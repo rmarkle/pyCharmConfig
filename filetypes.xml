@@ -7,6 +7,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="last" type="PLAIN_TEXT" />
       <mapping pattern="test_action_x_force_reputation" type="Python" />
       <mapping pattern="removedocs" type="Python" />
     </extensionMap>
