@@ -114,8 +114,12 @@
           <option name="url" value="https://github.com/zthart/mizu.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/syncurity-exchange/alienvault-central" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Git" />
+    <option name="cloneParentDir" value="$USER_HOME$/repos/syncurity-exchange" />
   </component>
 </application>
