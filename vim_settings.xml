@@ -61,15 +61,20 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563309428514">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563311167167">
+        <mark key="'" line="49" column="25" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/get_offenses.py" timestamp="1562680165302" />
-      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" timestamp="1563309435112">
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" timestamp="1563311177188">
         <mark key="'" line="48" column="13" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/delete_reference_set.yaml" timestamp="1562679411063">
         <mark key="[" line="11" column="14" />
@@ -205,11 +210,11 @@
       <register name="a" type="4">
         <text>.jjj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>QradarSiem</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IFxd</text>
@@ -362,31 +367,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpcmZsb3dfaW50ZWdyYXRpb25zLnFyYWRhcl9zaWVtIGltcG9ydCBRUmFkYXJTaWVtCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBTU0xFcnJvcgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBpcmZsb3dfaW50ZWdyYXRpb25zLnFyYWRhcl9zaWVtIGltcG9ydCBRUmFkYXJTaWVtCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZml0aW9ucyA9IGRhdGFbJ2RlZmluaXRpb25zJ10K</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBTU0xFcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIiAKICAgIDpwYXJhbSByZWY6IAogICAgOnJldHVybjogCiAgICA6ZXhjZXB0IEtleUVycm9yOgogICAgIiIiCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIiBSZXNvbHZlIGEgCiAgICA6cmV0dXJuOiAKICAgIDpwYXJhbSByZWY6CiAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgIGRlZml0aW9ucyA9IGRhdGFbJ2RlZmluaXRpb25zJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
