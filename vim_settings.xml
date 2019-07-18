@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/purge_reference_set.yaml" timestamp="1562679382071" />
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/close_offense.py" timestamp="1562680061518" />
+      <file name="/a.dummy" timestamp="1563474109650">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_reference_sets.py" timestamp="1560955857857">
         <mark key="'" line="193" column="8" />
         <mark key="[" line="61" column="44" />
@@ -61,12 +64,12 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563461193194">
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563473977578">
         <mark key="'" line="49" column="25" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="19" column="185" />
-        <mark key="^" line="8" column="40" />
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/get_offenses.py" timestamp="1562680165302" />
       <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" timestamp="1563462037951">
@@ -96,11 +99,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/manage_reference_sets.yaml" timestamp="1562678269719">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/unstarted/qradar_close_offenses.py" timestamp="1560869270074">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="48" />
@@ -120,6 +118,9 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
+      <file name="/Python Console" timestamp="1563474095137">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/purge_reference_set.yaml" timestamp="1560976798723">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -134,9 +135,6 @@
         <mark key="^" line="91" column="20" />
         <mark key="." line="2" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/packs-dev/symantec_endpoint_protection/README.md" timestamp="1561468349871">
-        <mark key="[" line="39" column="55" />
-      </file>
       <file name="$USER_HOME$/Documents/packs-dev/symantec_endpoint_protection/actions/get_group_locations.yaml" timestamp="1561647323333" />
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/add_to_reference_set.yaml" timestamp="1562679304741">
         <mark key="[" line="12" column="0" />
@@ -149,12 +147,6 @@
         <mark key="]" line="147" column="20" />
         <mark key="." line="147" column="603" />
         <mark key="^" line="142" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/manage_reference_sets.py" timestamp="1562678726895">
-        <mark key="[" line="15" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/Git/qradar/actions/get_offenses.py" timestamp="1561057293297">
-        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/close_offense.yaml" timestamp="1561124469271">
         <mark key="'" line="46" column="4" />
