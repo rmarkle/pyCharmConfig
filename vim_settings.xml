@@ -53,10 +53,12 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" timestamp="1561053087643">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" timestamp="1563479766445">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/manage_reference_sets.yaml" timestamp="1560884373712">
         <mark key="[" line="15" column="1" />
@@ -78,6 +80,13 @@
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/symantec/actions/lib/symantec_ep.py" timestamp="1559587537838">
+        <mark key="'" line="406" column="27" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
+        <mark key="^" line="398" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/delete_reference_set.yaml" timestamp="1562679411063">
         <mark key="[" line="11" column="14" />
@@ -121,6 +130,13 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/unstarted/lib/qradar/RestApiClient.py" timestamp="1561039283607" />
+      <file name="$USER_HOME$/Documents/Git/symantec/actions/do_group_full_scan_for_file.yaml" timestamp="1559674060345">
+        <mark key="'" line="32" column="853" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/close_offenses.py" timestamp="1560880987607">
         <mark key="'" line="12" column="149" />
         <mark key="[" line="2" column="86" />
@@ -180,6 +196,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/symantec/tests/test_action_get_groups.py" timestamp="1560186907520">
+        <mark key="'" line="720" column="8" />
+        <mark key="[" line="612" column="49" />
+        <mark key="]" line="612" column="80" />
+        <mark key="." line="612" column="80" />
+        <mark key="^" line="612" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/xforce-from-swagger/actions/run.py" timestamp="1562423305643">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="10" column="56" />
@@ -190,6 +213,7 @@
       <jump line="45" column="0" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" />
       <jump line="46" column="25" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" />
       <jump line="53" column="13" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -202,7 +226,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IFxd</text>
+        <text>LOGGER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -383,12 +407,15 @@
       </register>
     </registers>
     <search>
+      <last-search>LOGGER</last-search>
+      <last-pattern>LOGGER</last-pattern>
+      <last-replace>self.logger</last-replace>
+      <last-substitute>LOGGER</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0g</entry>
         <entry>=''</entry>
         <entry>args\.</entry>
         <entry>:</entry>
@@ -408,9 +435,9 @@
         <entry encoding="base64">ICok</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">IFxd</entry>
+        <entry>LOGGER</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/config_/config_args./g</entry>
         <entry>s/print(\(.*\))/return True, \1</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYubG9nZ2VyLmVycm9yKFwoLipcKSlcclwoICpcKXN5cy5leGl0KDEpL3NlbGYubG9nZ2VyLmVycm9yKFwxKVxuXDJyZXR1cm4gRmFsc2UsIFwxL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYubG9nZ2VyLmVycm9yKFwoLipcKSlcblwoICpcKXN5cy5leGl0KDEpL3NlbGYubG9nZ2VyLmVycm9yKFwxKVxyXDJyZXR1cm4gRmFsc2UsIFwxL2c=</entry>
@@ -429,6 +456,7 @@
         <entry>%s/ *$//g</entry>
         <entry>s/ /</entry>
         <entry>s/ /\r/g</entry>
+        <entry>%s/LOGGER/self.logger/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
