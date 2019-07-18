@@ -61,11 +61,11 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563311167167">
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563461193194">
         <mark key="'" line="49" column="25" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
+        <mark key="." line="19" column="185" />
         <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/get_offenses.py" timestamp="1562680165302" />
@@ -171,10 +171,10 @@
         <mark key="." line="82" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Git/irflow-integrations/irflow_integrations/qradar_siem.py" timestamp="1563386526979">
-        <mark key="[" line="877" column="108" />
-        <mark key="]" line="878" column="0" />
-        <mark key="^" line="877" column="79" />
-        <mark key="." line="878" column="0" />
+        <mark key="[" line="874" column="108" />
+        <mark key="]" line="875" column="0" />
+        <mark key="^" line="874" column="79" />
+        <mark key="." line="875" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/check_in_reference_set.yaml" timestamp="1562679354290">
         <mark key="[" line="29" column="0" />
