@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/purge_reference_set.yaml" timestamp="1562679382071" />
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/close_offense.py" timestamp="1562680061518" />
+      <file name="/a.dummy" timestamp="1563474109650">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_reference_sets.py" timestamp="1560955857857">
         <mark key="'" line="193" column="8" />
         <mark key="[" line="61" column="44" />
@@ -50,10 +53,12 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" timestamp="1561053087643">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" timestamp="1563479766445">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/manage_reference_sets.yaml" timestamp="1560884373712">
         <mark key="[" line="15" column="1" />
@@ -61,7 +66,28 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" timestamp="1563473977578">
+        <mark key="'" line="49" column="25" />
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/get_offenses.py" timestamp="1562680165302" />
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" timestamp="1563462037951">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Git/symantec/actions/lib/symantec_ep.py" timestamp="1559587537838">
+        <mark key="'" line="406" column="27" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
+        <mark key="^" line="398" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/delete_reference_set.yaml" timestamp="1562679411063">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="19" />
@@ -82,29 +108,20 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/manage_reference_sets.yaml" timestamp="1562678269719">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/unstarted/qradar_close_offenses.py" timestamp="1560869270074">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="48" />
         <mark key="^" line="16" column="48" />
         <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_siem.py" timestamp="1561047890518">
-        <mark key="'" line="29" column="45" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="." line="167" column="136" />
-        <mark key="^" line="167" column="136" />
-      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/close_offenses.yaml" timestamp="1560881052909">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
+      </file>
+      <file name="/Python Console" timestamp="1563474095137">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/purge_reference_set.yaml" timestamp="1560976798723">
         <mark key="[" line="29" column="0" />
@@ -113,15 +130,19 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/unstarted/lib/qradar/RestApiClient.py" timestamp="1561039283607" />
+      <file name="$USER_HOME$/Documents/Git/symantec/actions/do_group_full_scan_for_file.yaml" timestamp="1559674060345">
+        <mark key="'" line="32" column="853" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/close_offenses.py" timestamp="1560880987607">
         <mark key="'" line="12" column="149" />
         <mark key="[" line="2" column="86" />
         <mark key="]" line="2" column="86" />
         <mark key="^" line="91" column="20" />
         <mark key="." line="2" column="86" />
-      </file>
-      <file name="$USER_HOME$/Documents/packs-dev/symantec_endpoint_protection/README.md" timestamp="1561468349871">
-        <mark key="[" line="39" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/packs-dev/symantec_endpoint_protection/actions/get_group_locations.yaml" timestamp="1561647323333" />
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/add_to_reference_set.yaml" timestamp="1562679304741">
@@ -135,12 +156,6 @@
         <mark key="]" line="147" column="20" />
         <mark key="." line="147" column="603" />
         <mark key="^" line="142" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/manage_reference_sets.py" timestamp="1562678726895">
-        <mark key="[" line="15" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/Git/qradar/actions/get_offenses.py" timestamp="1561057293297">
-        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Git/qradar/actions/close_offense.yaml" timestamp="1561124469271">
         <mark key="'" line="46" column="4" />
@@ -156,12 +171,19 @@
         <mark key="^" line="94" column="7" />
         <mark key="." line="82" column="85" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/irflow-integrations/irflow_integrations/qradar_siem.py" timestamp="1563386526979">
+        <mark key="[" line="874" column="108" />
+        <mark key="]" line="875" column="0" />
+        <mark key="^" line="874" column="79" />
+        <mark key="." line="875" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/packs-dev/qradar/actions/check_in_reference_set.yaml" timestamp="1562679354290">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/qradar_add_note.py" timestamp="1563309576421" />
       <file name="$USER_HOME$/Documents/Git/xforce-from-swagger/etc/st2packgen/create_actions.py" timestamp="1562945690182">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="58" />
@@ -174,28 +196,40 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Git/symantec/tests/test_action_get_groups.py" timestamp="1560186907520">
+        <mark key="'" line="720" column="8" />
+        <mark key="[" line="612" column="49" />
+        <mark key="]" line="612" column="80" />
+        <mark key="." line="612" column="80" />
+        <mark key="^" line="612" column="80" />
+      </file>
       <file name="$USER_HOME$/Documents/Git/xforce-from-swagger/actions/run.py" timestamp="1562423305643">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="10" column="56" />
         <mark key="." line="10" column="56" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" />
+      <jump line="46" column="25" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_add_note.py" />
+      <jump line="53" column="13" filename="$USER_HOME$/Documents/Git/irflow-integrations/integrations/qradar/qradar_close_offenses.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/Documents/Git/qradar/actions/lib/qradar_base.py" />
+    </jumps>
     <registers>
       <register name="a" type="4">
         <text>.jjj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TODO logger and better error</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>TODO logger and better error</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IFxd</text>
+        <text>LOGGER</text>
       </register>
-      <register name="0" type="4">
-        <text>ert file, add cert to certifi bundle</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -342,43 +376,46 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZml0aW9ucyA9IGRhdGFbJ2RlZmluaXRpb25zJ10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIiAKICAgIDpwYXJhbSByZWY6IAogICAgOnJldHVybjogCiAgICA6ZXhjZXB0IEtleUVycm9yOgogICAgIiIiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIiBSZXNvbHZlIGEgCiAgICA6cmV0dXJuOiAKICAgIDpwYXJhbSByZWY6CiAgICA6cmV0dXJuOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBJbnRlcm1lZGlhdGUKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBIVFRQRXJyb3IK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBpcmZsb3dfaW50ZWdyYXRpb25zLnFyYWRhcl9zaWVtIGltcG9ydCBRUmFkYXJTaWVtCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBTU0xFcnJvcgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUlJSE16Q0NCUnVnQXdJQkFnSVRPUUFBQUlySEJVVDVwY0xoWkFBQkFBQUFpakFOQmdrcWhraUc5dzBCQVFzRgpBREJKTVJNd0VRWUtDWkltaVpQeUxHUUJHUllEYjNKbk1STXdFUVlLQ1pJbWlaUHlMR1FCR1JZRGJHaGhNUjB3Ckd3WURWUVFERXhSTVIwaGxZV3gwYUNCSmMzTjFhVzVuSUVOQk1UQWVGdzB4TmpFeU1EY3hPREEwTXpGYUZ3MHkKTVRFeU1EWXhPREEwTXpGYU1JR0NNUXN3Q1FZRFZRUUdFd0pWVXpFTE1Ba0dBMVVFQ0JNQ1VFRXhFakFRQmdOVgpCQWNUQ1V4aGJtTmhjM1JsY2pFaE1COEdBMVVFQ2hNWVRHRnVZMkZ6ZEdWeUlFZGxibVZ5WVd3Z1NHVmhiSFJvCk1Rc3dDUVlEVlFRTEV3SkpWREVpTUNBR0ExVUVBeE1aVUdGVGMyeEpibk53WldOMExteG5hR1ZoYkhSb0xtOXkKWnpDQ0FTSXdEUVlKS29aSWh2Y05BUUVCQlFBRGdnRVBBRENDQVFvQ2dnRUJBTWhneFI4UWxETVFrTjI3V0haawowYXk2RGRaeU9lYmk1WHJmY0QwL1FVdkNjTjB5ekl5c1psZzBxcHJuVzB0TXFZWFhLTEFFRkNDV0p4UXUxUHl2CmdLVktNc1VLSzdoUytBV25jaG4vNHIzYXZSMlhQRVVTVTE5b1JYZk4rQmp4Qkdja3hxSlFLTTcybGp6SFRZTDMKQkN1M1VJTCtJUmVjWmlkSS82RnlQTkRDY0RnN3NBUC9VeUFxckJ4Sm9Bc2ZoOXRqeGVuZFZYSjgrdmMyUlZLOQo5UURzM2g4NS9BTU9TV3kybzY3Z0d6UGl3bDVnUy9FY2hiUGsvWjVPU081dXVMU2R5eUZzUXJsZ0xlMlYzRU1pCkp4VEgxMEk2OERVb2lnMnY1UXlJS0dPWEQ3NVV5eGVuMi9YYldIL2NxNTlvci9hZUVQUk80Vy9vQVNQKzNiS3gKYkswQ0F3RUFBYU9DQXRnd2dnTFVNQjBHQTFVZERnUVdCQlJ1TCtrQ2VyTWRMMHBEMHBieXFjYTFtalpYdXpBZgpCZ05WSFNNRUdEQVdnQlNkbGZJVjhXK1VPS0Qxc0toY3FPT3AvNVUyWURDQ0FSa0dBMVVkSHdTQ0FSQXdnZ0VNCk1JSUJDS0NDQVFTZ2dnRUFoajlvZEhSd09pOHZZM0pzTG14bmFHVmhiSFJvTG05eVp5OURaWEowUlc1eWIyeHMKTDB4SFNHVmhiSFJvSlRJd1NYTnpkV2x1WnlVeU1FTkJNUzVqY215R2dieHNaR0Z3T2k4dkwwTk9QVXhIU0dWaApiSFJvSlRJd1NYTnpkV2x1WnlVeU1FTkJNU3hEVGoxRFFURXlMVUpVTWl4RFRqMURSRkFzUTA0OVVIVmliR2xqCkpUSXdTMlY1SlRJd1UyVnlkbWxqWlhNc1EwNDlVMlZ5ZG1salpYTXNRMDQ5UTI5dVptbG5kWEpoZEdsdmJpeEUKUXoxc2FHRXNSRU05YjNKblAyTmxjblJwWm1sallYUmxVbVYyYjJOaGRHbHZia3hwYzNRL1ltRnpaVDl2WW1wbApZM1JEYkdGemN6MWpVa3hFYVhOMGNtbGlkWFJwYjI1UWIybHVkRENDQVJnR0NDc0dBUVVGQndFQkJJSUJDakNDCkFRWXdUZ1lJS3dZQkJRVUhNQUtHUW1oMGRIQTZMeTlqY213dWJHZG9aV0ZzZEdndWIzSm5MME5sY25SRmJuSnYKYkd3dlRFZElaV0ZzZEdnbE1qQkpjM04xYVc1bkpUSXdRMEV4S0RFcExtTnlkRENCc3dZSUt3WUJCUVVITUFLRwpnYVpzWkdGd09pOHZMME5PUFV4SFNHVmhiSFJvSlRJd1NYTnpkV2x1WnlVeU1FTkJNU3hEVGoxQlNVRXNRMDQ5ClVIVmliR2xqSlRJd1MyVjVKVEl3VTJWeWRtbGpaWE1zUTA0OVUyVnlkbWxqWlhNc1EwNDlRMjl1Wm1sbmRYSmgKZEdsdmJpeEVRejFzYUdFc1JFTTliM0puUDJOQlEyVnlkR2xtYVdOaGRHVS9ZbUZ6WlQ5dlltcGxZM1JEYkdGegpjejFqWlhKMGFXWnBZMkYwYVc5dVFYVjBhRzl5YVhSNU1BOEdBMVVkRXdFQi93UUZNQU1CQWY4d0N3WURWUjBQCkJBUURBZ0dHTURzR0NTc0dBUVFCZ2pjVkJ3UXVNQ3dHSkNzR0FRUUJnamNWQ0lXVzBRR0IxTWdMaHNXZkRhdmwKVklIK2szZFNuOVJWaDZ2RGZnSUJaQUlCQWpBTkJna3Foa2lHOXcwQkFRc0ZBQU9DQWdFQU1SdUpNc1d6dFNUawpjTEdRNUJ3dTVlNE5IcXRlRkJ0a3pPb0NMNFRKSnFqYUkwcUM0SmZLd1ZuMGxQSmpPWUg1dFNMcUdWZlMzMHJWCnZnSzUvNkhobkdPaUZ6eU5iZ1QzNmZVeXFIdjRqNUd3ZUtTem5hZmJScC9nelhNaURFZkdrMnl6WmVlanFVcCsKZlFyTzg4eE5Gc01GU2E3Z0VVN3NVUG9jQjJFRjFQRVdZaE9WekYrVXBBemZlZ0RLQmp2YnpsY09jNURnTERaLwplWktzcGQ2SFlZSHdLZmFPT0FST3FKY0hyVFRwd0JlUVRSd2c3c1dhUzdrcktUVkZDakNadVVadXg3VmNKMjhLCmRvZW8zaE5KWUVYM0o1eDJlb3dEM2x0cEhPTnFnbTZ1Q1c2SXlGWUFxYWJqRkpxU0ZuUFFGc3g4bk5wT05PL1AKWXdrZFRNM0JVdXZqUkpKb3BBZStERThER2d0Q2JqaW5tTDRJTk00OXVzWTJKMTduYjhYcmR3dTE1Y3VzelFWNgp1N2Jsbll6NlhDdDEyQWhDZHFDODlJTWpZUVBkZmh1cVdyNG1UbXIzUzVPLytzTUUrcC9qWWRkczVwcnJGZHVqCmdCbXRCZHF0T1BtSWg3akpqMS9mQnowU093Tnh2VHVoemw0L1BOQnVGS3ZwUGtYMUdQS3l2dUpjbjdaalhVNVYKajhEQlFPUDk1QmRjaDNBMFZtUjMrUFFjWkgyM2t4K1hMN1NzOVhGbWxwcnB4YVhQN01BV29NbGpmMWVUNUdsTApuQUs2Sy9UdWtFN0FjMlR3dS9CbThPNEVFQnNyZTJ1eFpISTk3Tm8wYUtJYlVaTFhlZUl5eDJGZDVDRmdZMVowCksxcXplMEt1QUh4N1dJTHoyZThBVXIxN0IzQ1NLRjg9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJhc2U2NAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TUlJR3FqQ0NCSktnQXdJQkFnSVROUUFBQUFQL2pyaFNiNnhPV2dBQUFBQUFBekFOQmdrcWhraUc5dzBCQVFzRgpBREFZTVJZd0ZBWURWUVFERXcxTVIwaGxZV3gwYUNCU2IyOTBNQjRYRFRFMk1USXdOekUxTlRRMU5Wb1hEVEkyCk1USXdOekUyTURRMU5Wb3dTVEVUTUJFR0NnbVNKb21UOGl4a0FSa1dBMjl5WnpFVE1CRUdDZ21TSm9tVDhpeGsKQVJrV0EyeG9ZVEVkTUJzR0ExVUVBeE1VVEVkSVpXRnNkR2dnU1hOemRXbHVaeUJEUVRFd2dnSWlNQTBHQ1NxRwpTSWIzRFFFQkFRVUFBNElDRHdBd2dnSUtBb0lDQVFDcVM3a3lTRnpZdzdqVkJVMXRrREFHWWFoSXVqWHAxd0FNCnlmMkZtYndYK3N1eVJVcGl3dGgrMENFRzgrYlF2aThqZTZFcHptL3pFWTZpNjRERkF4cVB4M2o3b0Z2Uk8zLzgKeG1CaVR5U1pacHhjMTZ5NXZNdlNLVDhuZ1dBUk93TlZNeE9mVXowYktIUitSdHJZWEpsQ0Z1dzM5NFRLQjNoNwpZT3M4VmYrUS8wR3FLM3FSem04T1hKMEZDUkZGbGtlSFFwbzBuZFFKWHg1V1hFUlZPdVczVnlTUVZwTjJvM2tKCm84ajYvQnNTZTBja3pLcC9hd2NndEVwS2pLMTZDcDNlNDgzUnVOMCtQV1RXQnU2dFFoV1EzVDVYRVkrcTFJQVYKeHQ5RTBiTlZwS2o2Qno4djZGd3M5Ky9lSk9KK2xXWFdOdHlKRC9JODlRY2xsM1kvVGpHODU1dDhKWkwxRzYvdQpVaXBFUkEzN3hJQ3FtOHpaVUsxYlRGYkFMcmltYXpvYlBQTjZHZmpuM01xdUhQeXp6ZjBoYXpwU1k0YkNRbnZICnFKLzRhMnRkbDZXWldEdDdDUXBTeUtveDBZVmJXT2ZKMlUrV3cwU0R0cWJDYTE4ZDdkN0dmZlZXOXV0MUFhOVEKWkI3c0pYNEUvbGZyeU9rZVY4Zi9DS01pK3E3YlhFMElreHQ5eTVBTzJOSUxlWkQzdXJIRTFhc3hNYUZCNG1kKwpjWlRucHRCOXdHaGs4YklvZk03aGxwcEpWK0p4OVhWRVpPUUZ5YllFT2tDa0hraEc2YzhnaDJ1WGZ1SFo3NndZCjQwT0F0WmUwRjZRWDZPYm9GNkFVZjdkM2dnVnVnWUtPZjV4Sjd6UE9rdnN4YjlYdFNtT2hnN3lqOXFwRXpjVDUKUzdhWmdOWG54d0lEQVFBQm80SUJ1akNDQWJZd0VBWUpLd1lCQkFHQ054VUJCQU1DQVFFd0l3WUpLd1lCQkFHQwpOeFVDQkJZRUZCZHQ2YzdDMUxtbXJoSUFKa0dOejE3ZjJ6N01NQjBHQTFVZERnUVdCQlNkbGZJVjhXK1VPS0QxCnNLaGNxT09wLzVVMllEQVpCZ2tyQmdFRUFZSTNGQUlFREI0S0FGTUFkUUJpQUVNQVFUQUxCZ05WSFE4RUJBTUMKQVlZd0R3WURWUjBUQVFIL0JBVXdBd0VCL3pBZkJnTlZIU01FR0RBV2dCUW1HcDU2L2ZCTGZtUUlTbWJ6aXlqQgpFZHdLZnpDQ0FRSUdBMVVkSHdTQitqQ0I5ekNCOUtDQjhhQ0I3b1kyYUhSMGNEb3ZMMk55YkM1c1oyaGxZV3gwCmFDNXZjbWN2UTJWeWRFVnVjbTlzYkM5TVIwaGxZV3gwYUNVeU1GSnZiM1F1WTNKc2hvR3piR1JoY0Rvdkx5OUQKVGoxTVIwaGxZV3gwYUNVeU1GSnZiM1FzUTA0OVEwRXhNaTFDVkRFc1EwNDlRMFJRTEVOT1BWQjFZbXhwWXlVeQpNRXRsZVNVeU1GTmxjblpwWTJWekxFTk9QVk5sY25acFkyVnpMRU5PUFVOdmJtWnBaM1Z5WVhScGIyNHNSRU05CmJHaGhMRVJEUFc5eVp6OWpaWEowYVdacFkyRjBaVkpsZG05allYUnBiMjVNYVhOMFAySmhjMlUvYjJKcVpXTjAKUTJ4aGMzTTlZMUpNUkdsemRISnBZblYwYVc5dVVHOXBiblF3RFFZSktvWklodmNOQVFFTEJRQURnZ0lCQUJJSApKaHZlNzBHRnNJSXZMZGNSZzdDZTJyalltRDliYXZacTZOMWNiZnFoSksvQW9lZ3R4VGxrRXpJdkJ5SHNwTGN5CmplN3NQV29ydytVMGVwVWNBb0RoMVowd25yYldHUDdBcHlrcjhkYTZKMjVWMG1zN0NHbEJZNkd0czBzSW5XUDYKT3RnWEpENzg0L21NWXc0SkhqbUNtWXNOeXJOY2I1bVBobU8wcHYvMHpDMEM0YkVnVWFUdGRCRlNlWFpSTFR3MgpXdEF1N1JOUlJOOEhYQ2RxWUZsbitGQUN0UHNZdUIvdnVoT0ZoYjM3c2kxeCtLQU5DQmg0TXZRZU9rNHZINGMvCnB5UGRpK0R2MEplbE5leHhnS0poNDk3T2JrMjBKNVBZV3BIbk5RbnBSeUgyd1A5UmFUeTZsN2RBYy9JVithVWYKS2ZYTVFFVGRmeVh1QjJuc0FianFkczg4SlVmS0REc1FGV0wvZ0VXd1pOR20wR0xqeGRIZ1MvaElPYzlqYXJoSQp6YTJxYUFaVFA4d0wxQ3Q2MzI5Nkl3cW0xQm14MFRMZnNRclpuekZTOUtyNnFQN0IvWnpKSkE1UmtPVjQyYlR2CndyWTNLTnVDa3dBU0NQdnd0L2wzaUdzdGhqbVhqNU15MVhlYnZMckdtYk9kc0l6OGdBQzN1Z1VuVVFIbEFLUjYKWE5zaGxrOE5LdlQ4cWtDR2dWWDlkcmpVN2U0T2RmR1kzTHIxSzY0NWxtNjVWSFo0QnpERUpnQ2JZK3ZmalVVYgo2dmVTdVMvUlY0Zm1wM0JmWk9aQ25uUlUycTB3VjRJeTdiY2hBVWxUc0hNN0U2bllYeFp2TlBBYVZybXZmQmtGCkdNcEJCcXBwZUpETWZpZXYrcHFyODdmY1Y5YVlQUm5JQUtXK1VpOU4K</text>
+        <text encoding="base64">ICAgIGRlZml0aW9ucyA9IGRhdGFbJ2RlZmluaXRpb25zJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
+      <last-search>LOGGER</last-search>
+      <last-pattern>LOGGER</last-pattern>
+      <last-replace>self.logger</last-replace>
+      <last-substitute>LOGGER</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0g</entry>
         <entry>=''</entry>
         <entry>args\.</entry>
         <entry>:</entry>
@@ -398,9 +435,9 @@
         <entry encoding="base64">ICok</entry>
         <entry encoding="base64">IA==</entry>
         <entry encoding="base64">IFxd</entry>
+        <entry>LOGGER</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/config_/config_args./g</entry>
         <entry>s/print(\(.*\))/return True, \1</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYubG9nZ2VyLmVycm9yKFwoLipcKSlcclwoICpcKXN5cy5leGl0KDEpL3NlbGYubG9nZ2VyLmVycm9yKFwxKVxuXDJyZXR1cm4gRmFsc2UsIFwxL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbGYubG9nZ2VyLmVycm9yKFwoLipcKSlcblwoICpcKXN5cy5leGl0KDEpL3NlbGYubG9nZ2VyLmVycm9yKFwxKVxyXDJyZXR1cm4gRmFsc2UsIFwxL2c=</entry>
@@ -419,6 +456,7 @@
         <entry>%s/ *$//g</entry>
         <entry>s/ /</entry>
         <entry>s/ /\r/g</entry>
+        <entry>%s/LOGGER/self.logger/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
