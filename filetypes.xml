@@ -7,6 +7,7 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test_urls" type="PLAIN_TEXT" />
+      <mapping pattern=".ansible-lint" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
